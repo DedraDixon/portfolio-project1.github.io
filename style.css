@@ -180,6 +180,11 @@ header {
     padding: 3px 8px;
 }
 
+.mobile img {
+    width: 1rem;
+    height: 1rem;
+}
+
 
 
 
