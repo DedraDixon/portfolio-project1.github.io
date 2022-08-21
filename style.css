@@ -315,6 +315,13 @@ body {
     padding: 0;
 }
 
+@media only screen and (max-width: 471px){
+    .for {
+    margin: 0 auto;
+    }
+}    
+    
+
 .email {
     font-family: 'Roboto';
     font-style: normal;
