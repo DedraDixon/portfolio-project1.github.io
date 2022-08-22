@@ -183,6 +183,7 @@ header {
 
 .mobile img {
     height: 1.375rem;
+    border: 2px solid red;
 }
 
 
