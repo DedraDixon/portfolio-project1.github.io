@@ -163,6 +163,10 @@ header {
     
 }
 
+.mobile a {
+    height: 1.625rem;
+}
+
 .mobile ul li {
     margin: 0 auto;
     display: inline-flex;
@@ -183,8 +187,8 @@ header {
 }
 
 .mobile img {
-    height: 1.375rem;
-    border: 2px solid red;
+    height: 1.625rem;
+    
 }
 
 
